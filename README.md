@@ -1,4 +1,4 @@
-RAG Implementation with LlamaIndex Google Gemini
+##RAG Implementation with LlamaIndex Google Gemini##
 Overview
 The RAG Implementation with LlamaIndex Google Gemini project utilizes the RAG (Retrieval-Augmented Generation) techniques for extracting data from PDF documents. This project leverages Google Gemini, a library for working with PDF documents, to implement the RAG methodology effectively.
 
